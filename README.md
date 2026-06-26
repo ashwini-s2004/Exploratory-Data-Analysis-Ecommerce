@@ -1,7 +1,7 @@
 <!-- ========================= HERO BANNER ========================= -->
 
 <p align="center">
-  <img src="./Images/banner.png" alt="EDA Banner" width="100%">
+  <img src="banner.png" alt="EDA Banner" width="100%">
 </p>
 
 <h1 align="center">📊 Exploratory Data Analysis (EDA)</h1>
@@ -151,7 +151,7 @@ The goal is to understand customer purchasing behavior, identify trends, analyze
 ## Monthly Sales Trend
 
 <p align="center">
-<img src="./Images/monthly_sales.png" width="800">
+<img src="monthly_sales.png" width="800">
 </p>
 
 ---
@@ -159,7 +159,7 @@ The goal is to understand customer purchasing behavior, identify trends, analyze
 ## Correlation Heatmap
 
 <p align="center">
-<img src="./Images/correlation_heatmap.png" width="800">
+<img src="correlation_heatmap.png" width="800">
 </p>
 
 ---
@@ -167,7 +167,7 @@ The goal is to understand customer purchasing behavior, identify trends, analyze
 ## Payment Methods
 
 <p align="center">
-<img src="./Images/payment_methods.png" width="800">
+<img src="payment_methods.png" width="800">
 </p>
 
 ---
@@ -175,7 +175,7 @@ The goal is to understand customer purchasing behavior, identify trends, analyze
 ## Order Status
 
 <p align="center">
-<img src="./Images/order_status.png" width="800">
+<img src="order_status.png" width="800">
 </p>
 
 ---
@@ -183,7 +183,7 @@ The goal is to understand customer purchasing behavior, identify trends, analyze
 ## Quantity Distribution
 
 <p align="center">
-<img src="./Images/Quantity_distribution.png" width="800">
+<img src="Quantity_distribution.png" width="800">
 </p>
 
 ---
@@ -191,7 +191,7 @@ The goal is to understand customer purchasing behavior, identify trends, analyze
 ## Referral Source
 
 <p align="center">
-<img src="./Images/Referral_source.png" width="800">
+<img src="Referral_source.png" width="800">
 </p>
 
 ---
