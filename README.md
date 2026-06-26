@@ -1,51 +1,97 @@
+<!-- ========================= HERO BANNER ========================= -->
+
 <p align="center">
-  <img src="Images/banner.png" alt="EDA Banner" width="100%">
+  <img src="./Images/banner.png" alt="EDA Banner" width="100%">
 </p>
 
-# 📊 Exploratory Data Analysis (EDA)
+<h1 align="center">📊 Exploratory Data Analysis (EDA)</h1>
 
-> DecodeLabs Industrial Training – Project 2
+<h3 align="center">DecodeLabs Industrial Training – Project 2</h3>
 
-# 📊 Exploratory Data Analysis (EDA)
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Python+Data+Analytics+Project;Exploratory+Data+Analysis+(EDA);Data+Cleaning+%7C+Visualization+%7C+Business+Insights;DecodeLabs+Industrial+Training+2026">
+</p>
 
 ---
 
+# 🚀 Project Overview
 
-## 📖 Project Overview
+This project performs **Exploratory Data Analysis (EDA)** on an **E-Commerce Sales Dataset** using Python.
 
-This project performs a complete **Exploratory Data Analysis (EDA)** on an E-Commerce Sales Dataset.
-
-The objective is to understand customer purchasing behavior, analyze sales trends, identify popular products, detect outliers, and generate actionable business insights using Python.
+The goal is to understand customer purchasing behavior, identify trends, analyze sales performance, detect outliers, and generate meaningful business insights through statistical analysis and data visualization.
 
 ---
 
-## 🎯 Objectives
+# 🏆 Project Status
 
-- Clean the dataset
+![GitHub repo size](https://img.shields.io/github/repo-size/ashwini-s2004/Exploratory-Data-Analysis-Ecommerce?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/ashwini-s2004/Exploratory-Data-Analysis-Ecommerce?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/ashwini-s2004/Exploratory-Data-Analysis-Ecommerce?style=for-the-badge)
+
+![GitHub forks](https://img.shields.io/github/forks/ashwini-s2004/Exploratory-Data-Analysis-Ecommerce?style=for-the-badge)
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
+
+<img src="https://matplotlib.org/_static/images/logo2.svg" height="55"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+
+</p>
+
+---
+
+# 📊 Project Dashboard
+
+| KPI | Value |
+|------|------:|
+| 📦 Dataset Records | 1200 |
+| 📋 Features | 14 |
+| 📈 Visualizations | 10+ |
+| 🧹 Missing Values | Removed |
+| ♻ Duplicate Records | Removed |
+| 📉 Correlation Analysis | Completed |
+| 📦 Outlier Detection | Completed |
+| 💡 Business Insights | Generated |
+
+---
+
+# 🎯 Objectives
+
+- Clean and preprocess data
 - Perform descriptive statistics
-- Analyze sales trends
-- Study customer behavior
+- Study customer purchasing behavior
+- Analyze payment methods
+- Identify sales trends
 - Detect outliers
-- Build visualizations
-- Generate business insights
-- Provide recommendations
+- Create professional visualizations
+- Generate actionable business insights
 
 ---
 
-## 📂 Dataset Information
+# 📂 Dataset Information
 
-| Attribute | Value |
-|------------|--------|
+| Attribute | Details |
+|------------|---------|
+| Dataset | E-Commerce Sales |
 | Rows | 1200 |
 | Columns | 14 |
-| Domain | E-Commerce |
+| Format | Excel (.xlsx) |
 
 ### Features
 
@@ -66,125 +112,145 @@ The objective is to understand customer purchasing behavior, analyze sales trend
 
 ---
 
-## 🛠 Technologies Used
+# 🚀 Features
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab
+✅ Data Cleaning
 
----
+✅ Missing Value Analysis
 
-## 📊 Analysis Performed
+✅ Duplicate Detection
 
-✔ Data Cleaning
+✅ Descriptive Statistics
 
-✔ Missing Value Analysis
+✅ Product Analysis
 
-✔ Duplicate Detection
+✅ Payment Method Analysis
 
-✔ Descriptive Statistics
+✅ Monthly Sales Trend
 
-✔ Product Analysis
+✅ Correlation Heatmap
 
-✔ Payment Method Analysis
+✅ Outlier Detection
 
-✔ Order Status Analysis
+✅ Revenue Analysis
 
-✔ Referral Source Analysis
-
-✔ Monthly Sales Trend
-
-✔ Correlation Analysis
-
-✔ Outlier Detection
-
-✔ Business Insights
+✅ Business Insights
 
 ---
 
-## 📈 Visualizations
+# 📈 Visualizations
 
-The project contains multiple visualizations including:
+## Product Distribution
 
-- Product Distribution
-- Payment Method Distribution
-- Order Status
-- Referral Source
-- Quantity Distribution
-- Unit Price Distribution
-- Total Price Distribution
-- Monthly Sales Trend
-- Correlation Heatmap
-- Boxplots
-- Revenue Analysis
+<p align="center">
+<img src="./Images/Product_distribution.png" width="800">
+</p>
 
 ---
 
-## 💡 Key Business Insights
+## Monthly Sales Trend
 
-- Identified the best-selling products.
-- Analyzed customer payment preferences.
-- Studied monthly sales performance.
-- Detected high-value purchase outliers.
-- Identified relationships among numerical variables.
-- Generated recommendations for improving sales performance.
+<p align="center">
+<img src="./Images/monthly_sales.png" width="800">
+</p>
 
 ---
 
-## 📁 Repository Structure
+## Correlation Heatmap
+
+<p align="center">
+<img src="./Images/correlation_heatmap.png" width="800">
+</p>
+
+---
+
+## Payment Methods
+
+<p align="center">
+<img src="./Images/payment_methods.png" width="800">
+</p>
+
+---
+
+## Order Status
+
+<p align="center">
+<img src="./Images/order_status.png" width="800">
+</p>
+
+---
+
+## Quantity Distribution
+
+<p align="center">
+<img src="./Images/Quantity_distribution.png" width="800">
+</p>
+
+---
+
+## Referral Source
+
+<p align="center">
+<img src="./Images/Referral_source.png" width="800">
+</p>
+
+---
+
+# 💡 Key Business Insights
+
+- 📈 High-demand products contribute significantly to overall revenue.
+- 💳 Customers prefer specific payment methods over others.
+- 📅 Sales fluctuate across different months.
+- 📢 Referral channels influence customer acquisition.
+- 📦 High-value transactions indicate premium purchasing behavior.
+- 📊 Quantity and Total Price show a positive relationship.
+- 📉 Outliers reveal bulk purchases and exceptional orders.
+
+---
+
+# 📁 Project Structure
 
 ```text
-├── Dataset
-├── Notebook
-├── Images
-├── Report
+Exploratory-Data-Analysis-Ecommerce/
+│
+├── 📂 Dataset
+│   └── Dataset for Data Analytics(1).xlsx
+│
+├── 📂 Notebook
+│   └── EDA_Project2.ipynb
+│
+├── 📂 Images
+│   ├── banner.png
+│   ├── Product_distribution.png
+│   ├── correlation_heatmap.png
+│   ├── monthly_sales.png
+│   ├── payment_methods.png
+│   ├── order_status.png
+│   ├── Quantity_distribution.png
+│   └── Referral_source.png
+│
+├── 📂 Report
+│   └── EDA_Report.pdf
+│
 ├── README.md
 ├── requirements.txt
 └── LICENSE
 ```
 
 ---
-## 📊 Project Visualizations
 
-### Product Distribution
-
-<p align="center">
-<img src="Images/Product_distribution.png" width="700">
-</p>
-
----
-
-### Monthly Sales Trend
-
-<p align="center">
-<img src="Images/monthly_sales.png" width="700">
-</p>
-
----
-
-### Correlation Heatmap
-
-<p align="center">
-<img src="Images/correlation_heatmap.png" width="700">
-</p>
-
----
-
-### Product-wise revenue
-
-<p align="center">
-<img src="Images/Product-wise_revenue.png" width="700">
-</p>
-
-## 🚀 How to Run
+# ⚙ How to Run
 
 Clone the repository
 
 ```bash
 git clone https://github.com/ashwini-s2004/Exploratory-Data-Analysis-Ecommerce.git
+```
+
+Move into the project
+
+```bash
+cd Exploratory-Data-Analysis-Ecommerce
 ```
 
 Install dependencies
@@ -193,7 +259,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-Run the notebook
+Launch Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -201,38 +267,47 @@ jupyter notebook
 
 Open
 
-```
+```text
 Notebook/EDA_Project2.ipynb
 ```
 
 ---
 
-## 📌 Results
+# 🔮 Future Improvements
 
-✅ Data Cleaned
-
-✅ Visualizations Generated
-
-✅ Business Insights Created
-
-✅ Correlation Analysis Completed
-
-✅ Outliers Identified
+- Interactive Plotly Dashboard
+- Power BI Dashboard
+- Customer Segmentation
+- Sales Forecasting
+- Machine Learning Models
+- Business Intelligence Reports
 
 ---
 
-## 📜 License
+# 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Ashwini Suresh Sabale**
+<p align="center">
 
-Data Analytics Enthusiast
+## Ashwini Suresh Sabale
+
+**Data Analytics Enthusiast**
 
 DecodeLabs Industrial Training – Batch 2026
 
-⭐ If you found this project useful, don't forget to Star this repository!
+[![GitHub](https://img.shields.io/badge/GitHub-ashwini--s2004-black?style=for-the-badge&logo=github)](https://github.com/ashwini-s2004)
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **If you found this project helpful, please consider giving it a Star!** ⭐
+
+</p>
