@@ -143,7 +143,7 @@ The goal is to understand customer purchasing behavior, identify trends, analyze
 ## Product Distribution
 
 <p align="center">
-<img src="./Images/Product_distribution.png" width="800">
+<img src="Product_distribution.png" width="800">
 </p>
 
 ---
